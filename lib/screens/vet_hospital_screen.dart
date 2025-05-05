@@ -19,7 +19,7 @@ class _VetHospitalScreenState extends State<VetHospitalScreen> {
   int apiHitCount = 0;
   final int maxApiHits = 50;
 
-  final String apiKey = 'AIzaSyCb642GVQzgNyWkJq5nf5OEhJuEl3TJw4E';
+  final String apiKey = ''; // paste the api here provided in the link
 
   @override
   void initState() {
